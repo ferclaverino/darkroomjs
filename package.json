@@ -26,7 +26,8 @@
   },
   "scripts": {
     "start": "node_modules/.bin/gulp server build --prod",
-    "develop": "node_modules/.bin/gulp"
+    "develop": "node_modules/.bin/gulp",
+    "build": "node_modules/.bin/gulp build --prod"
   },
   "ignore": [
     "**/.*",

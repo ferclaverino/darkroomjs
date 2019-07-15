@@ -2,6 +2,10 @@
 
 All notable changes to this project will be documented in this file.
 
+## Unreleased (2019-07-14)
+- Add zoom plugin
+based on http://jsfiddle.net/dudih/y0z33gym/
+
 ## Unreleased
 
 - Add type "button" to avoid html5 submit validation (#24)
