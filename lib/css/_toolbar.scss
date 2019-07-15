@@ -2,9 +2,9 @@
 // Toolbar
 //
 .darkroom-toolbar {
-  display: block;
-  position: absolute;
-  // top: -45px;
+  display: inline-block;
+  position: sticky;
+  top: 0;
   left: 0;
   background: #444;
   height: 40px;
