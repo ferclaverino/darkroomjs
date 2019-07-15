@@ -1,5 +1,7 @@
 .darkroom-container {
   position: relative;
+  max-width: 100%;
+  overflow: auto;
 }
 
 .darkroom-image-container {
