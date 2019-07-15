@@ -6,7 +6,7 @@ git checkout -b gh-pages HEAD
 
 # Build assets
 rm -rf build
-gulp build --prod
+npm run build
 
 # Put build into demo folder
 rm demo/build
