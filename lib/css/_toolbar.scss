@@ -7,7 +7,6 @@
   top: 0;
   left: 0;
   background: #444;
-  height: 40px;
   min-width: 40px;
   z-index: 99;
   border-radius: 2px;
@@ -32,7 +31,8 @@
 // Button Group
 //
 .darkroom-button-group {
-  display: inline-block;
+  display: flex;
+  flex-direction: column;
   margin: 0;
   padding: 0;
   // border-right: 1px solid #777;
