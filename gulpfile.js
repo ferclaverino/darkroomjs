@@ -83,6 +83,7 @@ gulp.task('scripts', function () {
     srcDir + '/js/plugins/darkroom.zoom.js',
     srcDir + '/js/plugins/darkroom.crop.js',
     srcDir + '/js/plugins/darkroom.save.js',
+    srcDir + '/js/plugins/darkroom.dragScroll.js',
   ];
 
   gulp.src(files)
